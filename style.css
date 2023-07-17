@@ -19,7 +19,7 @@ ul{
     margin-left: 42px;
 }
 li{
-    /*letter-spacing: .2rem;*/
+    letter-spacing: .2rem;
     padding: 10px;
 }
 #submit{
